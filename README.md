@@ -11,7 +11,8 @@ Download [geckolib-forge-1.19-3.1.40.jar](https://www.curseforge.com/minecraft/m
 
 #__FAQ:__<br />
 __*Where can I find Komaru?*__<br />
-In the flower forest<br />
+In the birch forest<br />
+version 1.0 In the flower forest<br />
 __*How can I tame her?*__<br />
 ![imagee](https://user-images.githubusercontent.com/57834094/230614259-a8132e9f-d6fa-41f3-96b1-a06a4c58240b.png)<br />
 __*How can I tell her to unfollow/follow me?*__<br />
