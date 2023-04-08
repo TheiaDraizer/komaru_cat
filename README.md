@@ -22,11 +22,8 @@ Shift+RightClick on Komaru.
 
 #__Future fixes/additions:__<br />
 __Fixes__<br />
-Attempting to sleep in the water<br />
-"Komaru un_follow u now" => "Komaru un_follow owner now"<br />
  Hearts animation for other players when petting
 
 __Additions__<br />
-Sounds<br />
 Specific interactions with other mobs<br />
 Items<br />
