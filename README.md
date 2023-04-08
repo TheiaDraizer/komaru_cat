@@ -1,4 +1,5 @@
-![Screenshot 2023-04-07 043s146](https://user-images.githubusercontent.com/57834094/230614208-353a8ab5-12a1-4a96-9f89-b203280b61a8.png)
+![kom](https://user-images.githubusercontent.com/57834094/230729006-557b27c0-c314-4f88-bfd8-e26b77365701.png)
+ 
 
 Adds a cute cat Komaru, food for her and several paintings. You can also pet her and let her go for a walk
 
