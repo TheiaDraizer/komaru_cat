@@ -8,7 +8,7 @@ __CurseForge:__<br />
 [Just install with the CurseForge](https://www.curseforge.com/minecraft/mc-mods/komaru-cat)<br />
 __No CurseForge:__<br />
 Install Forge<br />
-1.19.2 Download [geckolib-forge-1.19-3.1.40.jar](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4407241) and komarumod, put them in the folder with the mods.
+1.19.2 Download [geckolib-forge-1.19-3.1.40.jar](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4407241) and komarumod, put them in the folder with the mods.<br />
 1.19-1.19.1 Download [geckolib-forge-1.19-3.1.28.jar](https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4036065) and komarumod, put them in the folder with the mods.
 
 #__FAQ:__<br />
